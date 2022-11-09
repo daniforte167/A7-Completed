@@ -1,0 +1,6 @@
+Use this file to record your reflection on this assignment.
+
+- Which methods did you decide to `overload`, and why?
+I decided for Library to overload the "goToFloor" function to try to ask if there was an elevator because if so then the nFloors it goes up could be greater than just one. I don't know if I accomplished that, but it's what I tried. Then for each of the classes I overloaded the public Building enter() to public House enter () and changed what it would be specific to the type of building and so that it prints messages specific to the building. I also overloaded the String toString so it matched what kind of building it was.
+- What worked, what didn't, what advice would you give someone taking this course in the future?
+I think I was still a bit confused about the overloading and overriding thing so if you are confused about something make sure you either have some way to figure it out (I looked up a lot of stuff and talked to people) or you get extra clarification before starting! There are a lot of resources (Profs, other students, TA hours, Google) and it's important to use those!!
